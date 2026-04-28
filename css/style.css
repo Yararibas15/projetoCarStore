@@ -18,7 +18,7 @@ p, label {
 
 input {
     border: nome;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #cccccc;
     padding: 10px 0;
 }
 
@@ -37,7 +37,7 @@ textarea {
 }
 
 .cabecalho h3{
-color:aliceblue;
+color:rgb(84, 70, 102);
 margin-top: 0;
 }
 
