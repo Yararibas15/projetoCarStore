@@ -42,7 +42,7 @@ margin-top: 0;
 }
 
 .form-container {
-  backgrond-color: #dfdfdf;
+  background-color: #dfdfdf;
   width: 60%;
   margin: 0 auto;
   position:relative;
@@ -51,4 +51,9 @@ margin-top: 0;
 
 .form-header {
     border-bottom: 1px solid #dfdfdf;
+    height: 45px;
+}
+
+.form-header p {
+    
 }
