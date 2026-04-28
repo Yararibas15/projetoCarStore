@@ -69,4 +69,14 @@ top: -46px;
     padding:30px;
 }
 
+.titulo-form {
+    margin-bottom: 15px;
+}
 
+.form-body p {
+    margin-bottom: 20px;
+}
+
+.campo-obrigatorio {
+    color: darkslateblue
+}
