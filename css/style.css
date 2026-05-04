@@ -42,7 +42,7 @@ margin-top: 0;
 }
 
 .form-container {
-    background-color: #726285;
+    background-color: #cdbde0;
     width: 60%;
 margin: 0 auto;
 position: relative;
@@ -50,7 +50,7 @@ top: -46px;
 }
 
 .form-header {
-    border-bottom: 1px solid rgb(189, 173, 204);
+    border-bottom: 1px solid rgb(40, 23, 56);
     height: 45px;
 }
 
